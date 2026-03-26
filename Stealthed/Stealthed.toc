@@ -1,0 +1,6 @@
+## Interface: 120001
+## Title: Stealthed
+## Author: Raeyla
+## Version: 1.6
+
+Stealthed.lua
