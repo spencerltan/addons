@@ -1,0 +1,6 @@
+## Interface: 120001
+## Title: EnhancedShroud
+## Author: Raeyla
+## Version: 1.6
+
+EnhancedShroud.lua
