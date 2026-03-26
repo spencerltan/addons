@@ -1,0 +1,8 @@
+## Interface: 120001
+## Title: FocusAlertInterrupt
+## Notes: TTS alert when focus casts an interruptible spell and your interrupt is ready.
+## Author: You
+## Version: 6.0
+## SavedVariables: FAI_DB
+
+FocusAlertInterrupt.lua
