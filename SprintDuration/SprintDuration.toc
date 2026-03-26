@@ -1,0 +1,6 @@
+## Interface: 120001
+## Title: NoShadowstep
+## Author: Raeyla
+## Version: 1.6
+
+SprintDuration.lua
