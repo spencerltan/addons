@@ -1,6 +1,0 @@
-## Interface: 120001
-## Title: CombatState
-## Author: Raeyla
-## Version: 1.6
-
-CombatState.lua
