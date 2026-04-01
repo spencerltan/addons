@@ -1,0 +1,6 @@
+## Interface: 120001
+## Title: RogueBuffDuration
+## Author: Raeyla
+## Version: 1.6
+
+RogueBuffDuration.lua
