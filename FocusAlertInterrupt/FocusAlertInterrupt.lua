@@ -146,7 +146,10 @@ end
 
 local function UpdateInterruptSpells()
     local idx = GetSpecialization()
-    if idx then _, _, _, playerSpec = GetSpecializationInfo(idx) end
+    if idx then
+        local specID = GetSpecializationInfo(idx)
+        playerSpec = specID
+    end
     local data = CLASS_INTERRUPTS[playerClass]
     local oldIDs = interruptSpellIDs
     interruptSpells   = {}
